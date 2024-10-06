@@ -1,3 +1,9 @@
+<p align="middle" >
+  <img width="200px;" src="/images/minji"/>
+</p>
+<h1 align="middle">김선우 포트폴리오</h1>
+<h3 align="middle">제작중</h3>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
