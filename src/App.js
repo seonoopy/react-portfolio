@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import FullscreenSection from "./components/FullscreenSection";
+import Skills from "./pages/Skills";
 
 function App() {
   return (
@@ -29,7 +30,7 @@ function App() {
       </FullscreenSection>
 
       <FullscreenSection id="#Projects" bgColor="bg-black">
-        <h1 className="text-6xl md:text-8xl font-bold text-white">Skills</h1>
+        <Skills />
       </FullscreenSection>
 
       <FullscreenSection id="#Projects" bgColor="bg-white">
